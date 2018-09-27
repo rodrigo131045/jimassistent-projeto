@@ -1,0 +1,26 @@
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe.config
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.pdb
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.csprojResolveAssemblyReference.cache
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.frmHome.resources
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.Properties.Resources.resources
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.csproj.GenerateResource.Cache
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.exe
+c:\users\leonardo batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.pdb
+C:\Users\Leonardo Batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe.manifest
+C:\Users\Leonardo Batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.application
+C:\Users\Leonardo Batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.exe.manifest
+C:\Users\Leonardo Batista\documents\visual studio 2012\Projects\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.application
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe.config
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.exe
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.pdb
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe.manifest
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.application
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.exe
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\bin\Debug\JIMAssistant.pdb
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.csprojResolveAssemblyReference.cache
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.frmHome.resources
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.Properties.Resources.resources
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.csproj.GenerateResource.Cache
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.exe.manifest
+C:\Users\Suporte - 02\Dropbox\JIMAssistant\JIMAssistant\obj\Debug\JIMAssistant.application
